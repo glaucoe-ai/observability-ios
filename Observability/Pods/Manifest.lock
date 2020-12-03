@@ -1,0 +1,18 @@
+PODS:
+  - Dynatrace (8.205.5.1011):
+    - Dynatrace/framework (= 8.205.5.1011)
+  - Dynatrace/framework (8.205.5.1011)
+
+DEPENDENCIES:
+  - Dynatrace (~> 8.205.5.1011)
+
+SPEC REPOS:
+  trunk:
+    - Dynatrace
+
+SPEC CHECKSUMS:
+  Dynatrace: 10b06d96d4cb221cef09822d52ae5e9587a461c9
+
+PODFILE CHECKSUM: 3c08aec73a34974f5d340e723b98ed69a9cfab6b
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '14.2'
+
+# Comment the next line if you don't want to use dynamic frameworks
+use_frameworks!
+
+# ignore all warnings from all pods
+inhibit_all_warnings!
+
+target 'Observability' do
+
+    pod 'Dynatrace', '~> 8.205.5.1011'
+
+end
