@@ -60,5 +60,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>DTXApplicationID</key>
+    <string>cf5dcfc9-cb6d-491d-b889-7b83f60ddf5f</string>
+    <key>DTXBeaconURL</key>
+    <string>https://bf57584jru.bf.dynatrace.com/mbeacon</string>
+    <key>DTXUserOptIn</key>
+    <true/>
+    <key>DTXStartupLoadBalancing</key>
+    <true/>
 </dict>
 </plist>
